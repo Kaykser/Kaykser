@@ -20,12 +20,12 @@ Hello, I'm Toni, a dedicated **Web Developer** with a strong foundation in web t
 
 [![HTML5 Logo](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3 Logo](https://www.w3.org/Style/CSS/icons/32x32/css.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/256px-JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/32px-JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript Logo](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png)](https://www.typescriptlang.org/)
 
 ## Backend Development
 
-[![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/192px-Java_programming_language_logo.svg.png)](https://www.oracle.com/java/)
+[![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/32px-Java_programming_language_logo.svg.png)](https://www.oracle.com/java/)
 [![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg)](https://www.php.net/)
 [![Python Logo](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
 
