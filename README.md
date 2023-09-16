@@ -18,27 +18,27 @@ Hello, I'm Toni, a dedicated **Web Developer** with a strong foundation in web t
 
 ## Frontend Development
 
-[![HTML5 Logo](insert_HTML5_logo_url_here)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3 Logo](insert_CSS3_logo_url_here)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript Logo](insert_JS_logo_url_here)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript Logo](insert_TS_logo_url_here)](https://www.typescriptlang.org/)
+[![HTML5 Logo](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3 Logo](https://www.w3.org/Style/CSS/icons/32x32/css.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/256px-JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript Logo](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png)](https://www.typescriptlang.org/)
 
 ## Backend Development
 
-[![Java Logo](insert_Java_logo_url_here)](https://www.oracle.com/java/)
-[![PHP Logo](insert_PHP_logo_url_here)](https://www.php.net/)
-[![Python Logo](insert_Python_logo_url_here)](https://www.python.org/)
+[![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/192px-Java_programming_language_logo.svg.png)](https://www.oracle.com/java/)
+[![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg)](https://www.php.net/)
+[![Python Logo](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
 
 ## Database Management
 
-[![MySQL Logo](insert_MySQL_logo_url_here)](https://www.mysql.com/)
-[![Oracle Logo](insert_Oracle_logo_url_here)](https://www.oracle.com/database/)
+[![MySQL Logo](https://www.mysql.com/common/logos/logo-mysql-170x115.png)](https://www.mysql.com/)
+[![Oracle Logo](https://www.oracle.com/webfolder/s/assets/oracle-social-logo.png)](https://www.oracle.com/database/)
 
 ## Frameworks
 
-[![Laravel Logo](insert_Laravel_logo_url_here)](https://laravel.com/)
-[![Angular Logo](insert_Angular_logo_url_here)](https://angular.io/)
-[![Django Logo](insert_Django_logo_url_here)](https://www.djangoproject.com/)
+[![Laravel Logo](https://laravel.com/img/logomark.min.svg)](https://laravel.com/)
+[![Angular Logo](https://angular.io/assets/images/logos/angular/angular.svg)](https://angular.io/)
+[![Django Logo](https://static.djangoproject.com/img/logos/django-logo-positive.png)](https://www.djangoproject.com/)
   
 ## Other Skills
 
