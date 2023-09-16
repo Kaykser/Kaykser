@@ -14,9 +14,7 @@ Hello, I'm Toni, a dedicated **Web Developer** with a strong foundation in web t
     - Web Design and User Experience
     - Web Development Capstone Project
 
-## Skills
-
-# My Web Development Skills
+## Web Development Skills
 
 ## Frontend Development
 
