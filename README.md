@@ -18,19 +18,27 @@ Hello, I'm Toni, a dedicated **Web Developer** with a strong foundation in web t
 
 ## Frontend Development
 
-[![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/120px-JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/120px-Typescript_logo_2020.svg.png)](https://www.typescriptlang.org/)
+[![HTML5 Logo](insert_HTML5_logo_url_here)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3 Logo](insert_CSS3_logo_url_here)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript Logo](insert_JS_logo_url_here)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript Logo](insert_TS_logo_url_here)](https://www.typescriptlang.org/)
 
 ## Backend Development
 
-[![Java](https://logos-world.net/java-logo/)](https://www.oracle.com/java/) [![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/120px-PHP-logo.svg.png)](https://www.php.net/) [![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png)](https://www.python.org/)
+[![Java Logo](insert_Java_logo_url_here)](https://www.oracle.com/java/)
+[![PHP Logo](insert_PHP_logo_url_here)](https://www.php.net/)
+[![Python Logo](insert_Python_logo_url_here)](https://www.python.org/)
 
 ## Database Management
 
-[![MySQL](https://icon-icons.com/es/icono/mysql-oficial-logo/169938)](https://www.mysql.com/) [![Oracle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/120px-Oracle_Corporation_logo.svg.png)](https://www.oracle.com/database/)
+[![MySQL Logo](insert_MySQL_logo_url_here)](https://www.mysql.com/)
+[![Oracle Logo](insert_Oracle_logo_url_here)](https://www.oracle.com/database/)
 
 ## Frameworks
 
-[![Django](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/200px-Django_logo.svg.png)](https://www.djangoproject.com/) [![Angular](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/320px-Angular_full_color_logo.svg.png)](https://angular.io/) [![Laravel](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/320px-Laravel.svg.png)](https://laravel.com/)
+[![Laravel Logo](insert_Laravel_logo_url_here)](https://laravel.com/)
+[![Angular Logo](insert_Angular_logo_url_here)](https://angular.io/)
+[![Django Logo](insert_Django_logo_url_here)](https://www.djangoproject.com/)
   
 ## Other Skills
 
