@@ -22,11 +22,11 @@ Hello, I'm Toni, a dedicated **Web Developer** with a strong foundation in web t
 
 ## Backend Development
 
-[![Java](https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg)](https://www.oracle.com/java/) [![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/120px-PHP-logo.svg.png)](https://www.php.net/) [![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png)](https://www.python.org/)
+[![Java](https://logos-world.net/java-logo/)](https://www.oracle.com/java/) [![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/120px-PHP-logo.svg.png)](https://www.php.net/) [![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png)](https://www.python.org/)
 
 ## Database Management
 
-[![MySQL](https://es.wikipedia.org/wiki/Archivo:Mysql.svg) [![Oracle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/120px-Oracle_Corporation_logo.svg.png)](https://www.oracle.com/database/)
+[![MySQL](https://icon-icons.com/es/icono/mysql-oficial-logo/169938)](https://www.mysql.com/) [![Oracle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/120px-Oracle_Corporation_logo.svg.png)](https://www.oracle.com/database/)
 
 ## Frameworks
 
