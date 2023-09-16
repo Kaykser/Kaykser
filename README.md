@@ -18,22 +18,47 @@ Hello, I'm Toni, a dedicated **Web Developer** with a strong foundation in web t
 
 ## Frontend Development
 
-[![HTML5]([https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png](https://es.wikipedia.org/wiki/Archivo:HTML5_logo_and_wordmark.svg))](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/120px-JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/120px-Typescript_logo_2020.svg.png)](https://www.typescriptlang.org/)
+### HTML5
+[![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png)](https://www.w3.org/TR/html52/)
+
+### CSS3
+[![CSS3](https://www.w3.org/Style/CSS/Overview.en.png)](https://www.w3.org/Style/CSS/specs.en.html)
+
+### JavaScript
+[![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### TypeScript
+[![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)](https://www.typescriptlang.org/)
 
 ## Backend Development
 
-[![Java](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_programming_language_logo.svg/120px-Java_programming_language_logo.svg.png)](https://www.java.com/)
-[![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/120px-PHP-logo.svg.png)](https://www.php.net/)
-[![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png)](https://www.python.org/)
+### Java
+[![Java](https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg)](https://www.java.com/)
+
+### PHP
+[![PHP](https://www.php.net/images/logos/php-logo.svg)](https://www.php.net/)
+
+### Python
+[![Python](https://www.python.org/static/community_logos/python-logo-generic.svg)](https://www.python.org/)
 
 ## Database Management
 
-[![MySQL](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/45px-MySQL.svg.png)](https://www.mysql.com/)
-[![Oracle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/120px-Oracle_Corporation_logo.svg.png)](https://www.oracle.com/database/)
+### MySQL
+[![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png)](https://www.mysql.com/)
 
+### Oracle
+[![Oracle](https://www.oracle.com/a/ocom/img/065266.svg)](https://www.oracle.com/database/)
+
+## Frameworks
+
+### Django
+[![Django](https://static.djangoproject.com/img/logos/django-logo-negative.png)](https://www.djangoproject.com/)
+
+### Angular
+[![Angular](https://angular.io/assets/images/logos/angular/angular.svg)](https://angular.io/)
+
+### Laravel
+[![Laravel](https://laravel.com/img/logotype.min.svg)](https://laravel.com/)
 ## Other Skills
 
 - Web Design Principles
