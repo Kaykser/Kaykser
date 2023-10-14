@@ -18,27 +18,19 @@ Hello, I'm Toni, a dedicated **Web Developer** with a strong foundation in web t
 
 ## Frontend Development
 
-[![HTML5 Logo](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3 Logo](https://www.w3.org/Style/CSS/icons/32x32/css.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/32px-JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript Logo](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png)](https://www.typescriptlang.org/)
+[![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)](https://www.typescriptlang.org/)
 
 ## Backend Development
 
-[![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/32px-Java_programming_language_logo.svg.png)](https://www.oracle.com/java/)
-[![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg)](https://www.php.net/)
-[![Python Logo](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
+[![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](https://www.oracle.com/java/) [![PHP](https://www.vectorlogo.zone/logos/php/php-ar21.svg)](https://www.php.net/) [![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/)
 
 ## Database Management
 
-[![MySQL Logo](https://www.mysql.com/common/logos/logo-mysql-170x115.png)](https://www.mysql.com/)
-[![Oracle Logo](https://www.oracle.com/webfolder/s/assets/oracle-social-logo.png)](https://www.oracle.com/database/)
+[![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)](https://www.mysql.com/) [![Oracle](https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg)](https://www.oracle.com/database/)
 
 ## Frameworks
 
-[![Laravel Logo](https://laravel.com/img/logomark.min.svg)](https://laravel.com/)
-[![Angular Logo](https://angular.io/assets/images/logos/angular/angular.svg)](https://angular.io/)
-[![Django Logo](https://static.djangoproject.com/img/logos/django-logo-positive.png)](https://www.djangoproject.com/)
+[![Django](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg)](https://www.djangoproject.com/) [![Angular](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)](https://angular.io/) [![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)](https://laravel.com/)
   
 ## Other Skills
 
